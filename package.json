@@ -1,0 +1,28 @@
+{
+  "name": "@easychessanimations/showchessboard",
+  "version": "1.0.1",
+  "description": "Package showchessboard.",
+  "main": "./lib/showchessboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "showchessboard": "./lib/showchessboard.js"
+  },
+  "keywords": [
+    "showchessboard"
+  ],
+  "author": "easychessanimations",
+  "license": "MIT",
+  "homepage": "https://github.com/easychessanimations/showchessboard",
+  "bugs": {
+    "url": "https://github.com/easychessanimations/showchessboard/issues",
+    "email": "chessbotroulette@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/easychessanimations/showchessboard.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
